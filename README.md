@@ -18,7 +18,7 @@ Bu proje Python ile geliştirilmiş bir test uygulamasıdır.
 ## Kurulum
 
 ```bash
-git clone https://github.com/kullaniciadi/SMSBomber.git
+git clone https://github.com/killoed/Scorpionsmsbomber.git
 cd SMSBomber
 bash scorpionsmsbomber.sh
 ```
