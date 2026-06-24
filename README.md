@@ -1,4 +1,4 @@
-# SMSBomber
+# Scorpion SMSBomber
 
 ## Hakkında
 
@@ -19,7 +19,7 @@ Bu proje Python ile geliştirilmiş bir test uygulamasıdır.
 
 ```bash
 git clone https://github.com/killoed/Scorpionsmsbomber.git
-cd SMSBomber
+cd Scorpionsmsbomber
 bash scorpionsmsbomber.sh
 ```
 
